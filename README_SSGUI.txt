@@ -2,6 +2,7 @@
 Requirements:
 
 Python 3.6 must be installed.
+PyQt5 must be installed.
 
 
 Instructions for use:
